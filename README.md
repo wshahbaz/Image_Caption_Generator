@@ -25,3 +25,6 @@ The Keras model from the Functional API was used to define the model. The model 
 ![Dirt biker example](./examples/dirt_biker.png)
 
 ![Hockey example](./examples/hockey.png)
+
+## Sources:
+M. Hodosh, P. Young and J. Hockenmaier (2013) "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics", Journal of Artifical Intellegence Research, Volume 47, pages 853-899
